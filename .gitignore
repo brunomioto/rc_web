@@ -1,0 +1,14 @@
+node_modules/
+dist/
+scratch/
+public/duckdb-ext/
+*.log
+.DS_Store
+*.aux
+CLAUDE.local.md
+.claude/
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.quarto
